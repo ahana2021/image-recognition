@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+}
+.header_div img{
+    width:150px;
+
+}
+.header_div{
+    background-color: lightgreen;
+}
+.text_image_and_result img{
+    width:200px;
+}
